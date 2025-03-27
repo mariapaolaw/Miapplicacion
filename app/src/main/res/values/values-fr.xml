@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Application Multilingue</string>
+    <string name="welcome_message">Bienvenue dans notre application</string>
+    <string name="description">Ceci est une application de démonstration avec support multilingue</string>
+</resources>
